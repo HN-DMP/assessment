@@ -35,7 +35,7 @@ const tweetDivided = document.getElementById('tweet-area');
     anchor.setAttribute('href', hrefValue);
     anchor.className = 'twitter-hashtag-button';
     anchor.setAttribute('data-text', result);
-    anchor.innerText = 'Tweet #あなたのいいところ';
+    anchor.innerText = 'Tweet #あなたのいいところ','https://hn-dmp.github.io/assessment/assessment.html';
 
     tweetDivided.appendChild(anchor);
 
