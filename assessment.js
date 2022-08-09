@@ -48,10 +48,10 @@ const tweetDivided = document.getElementById('tweet-area');
  
 
 const answers =[
-'{userName}のいいところは声です。{userName}の特徴的な声は皆を惹きつけ、心に残ります。',
-'{userName}のいいところはまなざしです。{userName}に見つめられた人は、気になって仕方がないでしょう。',
-'{userName}のいいところは情熱です。{userName}の情熱に周りの人は感化されます。',
-'{userName}のいいところは厳しさです。{userName}の厳しさがものごとをいつも成功に導きます。',
+'{userName}のいいところはシューティングです。{userName}の特徴的なエイムは皆を惹きつけ、心に残ります。',
+'{userName}のいいところはヘイト集めです。{userName}を前にしたエネミーは、気になって仕方がないでしょう。',
+'{userName}のいいところは迷言です。{userName}の迷言に周りの人は感化されます。',
+'{userName}のいいところはスパルタです。{userName}のスパルタがものごとをいつもテルモピュライに導きます。',
 '{userName}のいいところは知識です。博識な{userName}を多くの人が頼りにしています。',
 '{userName}のいいところはユニークさです。{userName}だけのその特徴が皆を楽しくさせます。',
 '{userName}のいいところは用心深さです。{userName}の洞察に、多くの人が助けられます。',
@@ -59,11 +59,11 @@ const answers =[
 '{userName}のいいところはインポスターです。{userName}がする決断にいつも殺される人がいます。',
 '{userName}のいいところは思いやりです。{userName}に気をかけてもらった多くの人が感謝しています。',
 '{userName}のいいところは感受性です。{userName}が感じたことに皆が共感し、わかりあうことができます。',
-'{userName}のいいところは節度です。強引すぎない{userName}の考えに皆が感謝しています。',
-'{userName}のいいところは好奇心です。新しいことに向かっていく{userName}の心構えが多くの人に魅力的に映ります。',
-'{userName}のいいところは気配りです。{userName}の配慮が多くの人を救っています。',
+'{userName}のいいところはカリスマです。{userName}の一挙手一投足に皆が感謝しています。',
+'{userName}のいいところはランボーです。サーチアンドデストロイな{userName}の心構えが多くの人に魅力的に映ります。',
+'{userName}のいいところは課金です。{userName}の課金が推しを救っています。',
 '{userName}のいいところはその全てです。ありのままの{userName}自身がいいところなのです。',
-'{userName}のいいところは自制心です。やばいと思ったときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
+'{userName}のいいところは自制心です。死体撃ちや屈伸煽りされたときにしっかりと衝動を抑えられる{userName}が皆から評価されています。'
 ]
 
 function assessment(userName){
